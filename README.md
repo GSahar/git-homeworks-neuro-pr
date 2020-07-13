@@ -5,4 +5,4 @@
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
 Тел: 8 800 535 35 35
-Email: Home_Money@ya.ru
+Email: Home_Money@ya.ru 
